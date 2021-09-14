@@ -1,0 +1,11 @@
+[
+    {
+        "brand": "Mercedes",
+        "founded": "1950",
+        "ceo": "name",
+        "description": "loremum dasf fdsnfd asf lgks",
+        "models": [
+            "CLK", "CLM", "Infra"
+        ]
+    }
+]
