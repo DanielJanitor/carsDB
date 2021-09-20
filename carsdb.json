@@ -1,6 +1,6 @@
 [
     {
-        "logo": "https://www.pinclipart.com/picdir/middle/375-3758826_mercedes-benz-logo-png-file-mercedes-logo-transparent.png",        
+        "logo": "url('./components/logoMercedes.png')",        
         "brand": "Mercedes Benz",
         "country": "Germany",
         "year": "1926",
