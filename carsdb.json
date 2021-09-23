@@ -110,7 +110,7 @@
                "power": "170Kw | 225 Kw",
                "engine": "Petrol | Gasoline",
                "year": "2021",
-               "speed": "211km/h | 2480km/h",
+               "speed": "211km/h | 248km/h",
                "Consumption": "9.2l | 12,1l"
             
             }
@@ -120,21 +120,37 @@
         "logo": "https://w7.pngwing.com/pngs/409/855/png-transparent-mercedes-logo-logo-mercedes-benz-logo-vector-diagram.png",
         "brand": "Peugeot",
         "country": "French",
-        "year": "1909",
-        "founder": "August Horch",
-        "description": "Audi is a German automotive manufacturer of luxury vehicles headquartered in Ingolstadt, Bavaria, Germany. As a subsidiary of its parent company, the Volkswagen Group, Audi produces vehicles in nine production facilities worldwide. The origins of the company are complex, going back to the early 20th century and the initial enterprises (Horch and the Audiwerke) founded by engineer August Horch; and two other manufacturers (DKW and Wanderer), leading to the foundation of Auto Union in 1932. The modern era of Audi essentially began in the 1960s when Auto Union was acquired by Volkswagen from Daimler-Benz.",
+        "year": "1810",
+        "founder": "Armand Peugeot",
+         "foImg": "https://upload.wikimedia.org/wikipedia/commons/9/92/PeugeotA.jpg",
+        "description": "Peugeot is a French brand of automobiles owned by Stellantis.The family business that preceded the current Peugeot companies was founded in 1810 with a steel foundry that soon started making hand tools and kitchen equipment, and then bicycles. On 20 November 1858, Émile Peugeot applied for the lion trademark. Armand Peugeot built the company's first car steam tricycle, in collaboration with Léon Serpollet in 1889; this was followed in 1890 by an internal combustion car with a Panhard-Daimler engine.",
         "models": [
             {
                "model": "Peugeot 208",
-               "img": "https://www.piestanskydennik.sk/wp-content/uploads/2019/09/peugeot-e-208-5-e1551088972763.jpg" 
+               "img": "https://www.piestanskydennik.sk/wp-content/uploads/2019/09/peugeot-e-208-5-e1551088972763.jpg",
+               "power": "84Kw | 96 Kw",
+               "engine": "Petrol | Gasoline",
+               "year": "2015",
+               "speed": "160km/h | 190km/h",
+               "Consumption": "5.2l | 6,1l" 
             },
                         {
                "model": "Peugeot 308",
-               "img": "https://www.motor.es/fotos-noticias/2020/12/peugeot-308-2021-202073896-1608574318_1.jpg" 
+               "img": "https://www.motor.es/fotos-noticias/2020/12/peugeot-308-2021-202073896-1608574318_1.jpg",
+               "power": "100Kw | 120 Kw",
+               "engine": "Petrol | Gasoline",
+               "year": "2012",
+               "speed": "160km/h | 190km/h",
+               "Consumption": "7.2l | 8,1l"  
             },
                         {
                "model": "Peugeot 508",
-               "img": "https://cdn.motor1.com/images/mgl/Z2A8r/s3/concept-508-peugeot-sport-engineered.jpg" 
+               "img": "https://cdn.motor1.com/images/mgl/Z2A8r/s3/concept-508-peugeot-sport-engineered.jpg",
+               "power": "135Kw | 165 Kw",
+               "engine": "Petrol | Gasoline",
+               "year": "2016",
+               "speed": "180km/h | 210km/h",
+               "Consumption": "8.2l | 9,1l"   
             }
         ]
     },
@@ -142,21 +158,37 @@
         "logo": "https://w7.pngwing.com/pngs/409/855/png-transparent-mercedes-logo-logo-mercedes-benz-logo-vector-diagram.png",
         "brand": "Renault",
         "country": "French",
-        "year": "1909",
-        "founder": "August Horch",
-        "description": "Audi is a German automotive manufacturer of luxury vehicles headquartered in Ingolstadt, Bavaria, Germany. As a subsidiary of its parent company, the Volkswagen Group, Audi produces vehicles in nine production facilities worldwide. The origins of the company are complex, going back to the early 20th century and the initial enterprises (Horch and the Audiwerke) founded by engineer August Horch; and two other manufacturers (DKW and Wanderer), leading to the foundation of Auto Union in 1932. The modern era of Audi essentially began in the 1960s when Auto Union was acquired by Volkswagen from Daimler-Benz.",
+        "year": "1899",
+        "founder": "Louis Renault",
+        "foImg": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Louis_Renault_en_1929.jpg",
+        "description": "Groupe Renault known as the Renault Group in English is a French multinational automobile manufacturer established in 1899. The company produces a range of cars and vans, and in the past has manufactured trucks, tractors, tanks, buses/coaches, aircraft and aircraft engines, and autorail vehicles.",
         "models": [
             {
-               "model": "Peugeot 208",
-               "img": "https://www.piestanskydennik.sk/wp-content/uploads/2019/09/peugeot-e-208-5-e1551088972763.jpg" 
+               "model": "Renault Megane",
+               "img": "https://ipravda.sk/res/2020/02/03/thumbs/renault-megane-2020_05-nestandard1.jpg",
+               "power": "74Kw | 81 Kw",
+               "engine": "Petrol | Gasoline",
+               "year": "2001",
+               "speed": "140km/h | 160km/h",
+               "Consumption": "4.2l | 5,1l"   
             },
                         {
-               "model": "Peugeot 308",
-               "img": "https://www.motor.es/fotos-noticias/2020/12/peugeot-308-2021-202073896-1608574318_1.jpg" 
+               "model": "Renault Clio",
+               "img": "https://carsguide-res.cloudinary.com/image/upload/f_auto,fl_lossy,q_auto,t_cg_hero_large/v1/editorial/story/hero_image/2019-New-Renault-CLIO-hatch-orange-1001x565-%281%29.jpg",
+               "power": "54Kw | 71Kw",
+               "engine": "Petrol | Gasoline",
+               "year": "2001",
+               "speed": "120km/h | 140km/h",
+               "Consumption": "4.2l | 5,1l"   
             },
                         {
-               "model": "Peugeot 508",
-               "img": "https://cdn.motor1.com/images/mgl/Z2A8r/s3/concept-508-peugeot-sport-engineered.jpg" 
+               "model": "Renaul Talisman",
+               "img": "https://ipravda.sk/res/2020/03/12/thumbs/renault-talisman-2020_09-nestandard1.jpg",
+             "power": "135Kw | 165 Kw",
+               "engine": "Petrol | Gasoline",
+               "year": "2016",
+               "speed": "180km/h | 210km/h",
+               "Consumption": "8.2l | 9,1l" 
             }
         ]
     },
