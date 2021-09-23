@@ -5,20 +5,35 @@
         "country": "Germany",
         "year": "1926",
         "founder": "Karl Friedrich Benz",
-        "foImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Carl-Benz_coloriert.jpg/800px-Carl-Benz_coloriert.jpg",
+        "foImg": "https://lh3.googleusercontent.com/proxy/QwhEKTL2zgwdmXj6Zn4gvz05saX-sWE8Pu_5qMCPKQ8bQenwyzbDxqLsmLQADNQMrURiYO9fd0Bz",
         "description": "Mercedes-Benz  commonly referred to as Mercedes, is a German automotive luxury brand headquartered in Stuttgart, Baden-Württemberg, Germany. Mercedes-Benz produces luxury vehicles and commercial vehicles. The first Mercedes-Benz brand name vehicles were produced in 1926. In 2018, Mercedes-Benz was the largest seller of premium vehicles in the world, having sold 2.31 million passenger cars.The company's origins come from Daimler-Motoren-Gesellschaft's 1901 Mercedes and Karl Benz's 1886 Benz Patent-Motorwagen, which is widely regarded as the first internal combustion engine in a self-propelled automobile. The fuel was not gasoline, but rather a much more volatile petroleum spirit called ligroin. The slogan for the brand is the best or nothing.",
         "models": [
             {
                "model": "Mercedes CLK",
-               "img": "http://img.autoabc.lv/Mercedes-CLK/Mercedes-CLK_2003_Kabriolets_1641253251_0.jpg" 
+               "img": "http://img.autoabc.lv/Mercedes-CLK/Mercedes-CLK_2003_Kabriolets_1641253251_0.jpg",
+               "power": "140Kw | 160 Kw",
+               "engine": "Petrol | Gasoline",
+               "year": "2010",
+               "speed": "190km/h | 220km/h",
+               "Consumption": "7.2l | 9,5l" 
             },
                         {
                "model": "Mercedes SLK",
-               "img": "https://img.drivemag.net/jato_car_photos/MERCEDES%2FSLK-CLASS%2Fconvertible%2F2%2F2007%2Fexterior-photos%2Fo%2Fmercedes-slk-class-convertible-2-doors-2007-model-exterior-photos-0.jpg" 
+               "img": "https://img.drivemag.net/jato_car_photos/MERCEDES%2FSLK-CLASS%2Fconvertible%2F2%2F2007%2Fexterior-photos%2Fo%2Fmercedes-slk-class-convertible-2-doors-2007-model-exterior-photos-0.jpg",
+                              "power": "140Kw | 160 Kw",
+               "engine": "Petrol | Gasoline",
+               "year": "2011",
+               "speed": "195km/h | 225km/h",
+               "Consumption": "7.3l | 9,1l"  
             },
                         {
                "model": "Mercedes GLK",
-               "img": "https://assets.newatlas.com/dims4/default/cce3bee/2147483647/strip/true/crop/675x450+63+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Farchive%2Fmbglk.jpg" 
+               "img": "https://assets.newatlas.com/dims4/default/cce3bee/2147483647/strip/true/crop/675x450+63+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Farchive%2Fmbglk.jpg",
+               "power": "135Kw | 167 Kw",
+               "engine": "Petrol | Gasoline",
+               "year": "2015",
+               "speed": "160km/h | 180km/h",
+               "Consumption": "9.2l | 11,5l"  
             }
         ]
     },
@@ -31,16 +46,31 @@
         "description": "BMW is a German multinational corporate manufacturer of luxury vehicles and motorcycles headquartered in Munich, Bavaria, Germany. The corporation was founded in 1916 as a manufacturer of aircraft engines, which it produced from 1917 until 1918 and again from 1933 to 1945. Automobiles are marketed under the brands BMW, Mini and Rolls-Royce, and motorcycles are marketed under the brand BMW Motorrad. In 2017, BMW was the world's fourteenth-largest producer of motor vehicles, with  vehicles produced. The company has significant motorsport history, especially in touring cars, Formula 1, sports cars and the Isle of Man TT",
         "models": [
             {
-               "model": "Mercedes CLK",
-               "img": "http://img.autoabc.lv/Mercedes-CLK/Mercedes-CLK_2003_Kabriolets_1641253251_0.jpg" 
+               "model": "BMW M3",
+               "img": "https://www.autojournal.cz/wp-content/uploads/2021/05/BMW-M3-E46-3-537x350.jpg",
+               "power": "145Kw | 170 Kw",
+               "engine": "Petrol | Gasoline",
+               "year": "2010",
+               "speed": "190km/h | 220km/h",
+               "Consumption": "8.2l | 9,5l" 
             },
                         {
-               "model": "Mercedes SLK",
-               "img": "https://img.drivemag.net/jato_car_photos/MERCEDES%2FSLK-CLASS%2Fconvertible%2F2%2F2007%2Fexterior-photos%2Fo%2Fmercedes-slk-class-convertible-2-doors-2007-model-exterior-photos-0.jpg" 
+               "model": "BMW M5",
+               "img": "https://media.autoexpress.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1563182808/autoexpress/2018/08/01_43.jpg",
+               "power": "175Kw | 220 Kw",
+               "engine": "Petrol | Gasoline",
+               "year": "2021",
+               "speed": "210km/h | 260km/h",
+               "Consumption": "9.2l | 11,5l"  
             },
                         {
-               "model": "Mercedes GLK",
-               "img": "https://assets.newatlas.com/dims4/default/cce3bee/2147483647/strip/true/crop/675x450+63+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Farchive%2Fmbglk.jpg" 
+               "model": "BMW M8",
+               "img": "https://www.supercars.net/blog/wp-content/uploads/2019/10/BMW-M8_Gran_Coupe_Competition-2020-1280-01.jpg",
+               "power": "170Kw | 225 Kw",
+               "engine": "Petrol | Gasoline",
+               "year": "2021",
+               "speed": "210km/h | 260km/h",
+               "Consumption": "9.5l | 12,5l"  
             }
         ]
     },
@@ -69,6 +99,50 @@
      {
         "logo": "https://w7.pngwing.com/pngs/409/855/png-transparent-mercedes-logo-logo-mercedes-benz-logo-vector-diagram.png",
         "brand": "Peugeot",
+        "country": "French",
+        "year": "1909",
+        "founder": "August Horch",
+        "description": "Audi is a German automotive manufacturer of luxury vehicles headquartered in Ingolstadt, Bavaria, Germany. As a subsidiary of its parent company, the Volkswagen Group, Audi produces vehicles in nine production facilities worldwide. The origins of the company are complex, going back to the early 20th century and the initial enterprises (Horch and the Audiwerke) founded by engineer August Horch; and two other manufacturers (DKW and Wanderer), leading to the foundation of Auto Union in 1932. The modern era of Audi essentially began in the 1960s when Auto Union was acquired by Volkswagen from Daimler-Benz.",
+        "models": [
+            {
+               "model": "Peugeot 208",
+               "img": "https://www.piestanskydennik.sk/wp-content/uploads/2019/09/peugeot-e-208-5-e1551088972763.jpg" 
+            },
+                        {
+               "model": "Peugeot 308",
+               "img": "https://www.motor.es/fotos-noticias/2020/12/peugeot-308-2021-202073896-1608574318_1.jpg" 
+            },
+                        {
+               "model": "Peugeot 508",
+               "img": "https://cdn.motor1.com/images/mgl/Z2A8r/s3/concept-508-peugeot-sport-engineered.jpg" 
+            }
+        ]
+    },
+    {
+        "logo": "https://w7.pngwing.com/pngs/409/855/png-transparent-mercedes-logo-logo-mercedes-benz-logo-vector-diagram.png",
+        "brand": "Renault",
+        "country": "French",
+        "year": "1909",
+        "founder": "August Horch",
+        "description": "Audi is a German automotive manufacturer of luxury vehicles headquartered in Ingolstadt, Bavaria, Germany. As a subsidiary of its parent company, the Volkswagen Group, Audi produces vehicles in nine production facilities worldwide. The origins of the company are complex, going back to the early 20th century and the initial enterprises (Horch and the Audiwerke) founded by engineer August Horch; and two other manufacturers (DKW and Wanderer), leading to the foundation of Auto Union in 1932. The modern era of Audi essentially began in the 1960s when Auto Union was acquired by Volkswagen from Daimler-Benz.",
+        "models": [
+            {
+               "model": "Peugeot 208",
+               "img": "https://www.piestanskydennik.sk/wp-content/uploads/2019/09/peugeot-e-208-5-e1551088972763.jpg" 
+            },
+                        {
+               "model": "Peugeot 308",
+               "img": "https://www.motor.es/fotos-noticias/2020/12/peugeot-308-2021-202073896-1608574318_1.jpg" 
+            },
+                        {
+               "model": "Peugeot 508",
+               "img": "https://cdn.motor1.com/images/mgl/Z2A8r/s3/concept-508-peugeot-sport-engineered.jpg" 
+            }
+        ]
+    },
+    {
+        "logo": "https://w7.pngwing.com/pngs/409/855/png-transparent-mercedes-logo-logo-mercedes-benz-logo-vector-diagram.png",
+        "brand": "Bugatti",
         "country": "French",
         "year": "1909",
         "founder": "August Horch",
