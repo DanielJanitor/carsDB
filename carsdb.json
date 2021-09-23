@@ -89,29 +89,29 @@
             {
                "model": "Audi A3",
                "img": "https://i.gaw.to/content/photos/42/18/421881-place-a-la-berline-audi-a3-2021-de-nouvelle-generation.jpg",
-               "power": "170Kw | 225 Kw",
+               "power": "145Kw | 170 Kw",
                "engine": "Petrol | Gasoline",
                "year": "2021",
-               "speed": "210km/h | 260km/h",
-               "Consumption": "9.5l | 12,5l" 
+               "speed": "170km/h | 210km/h",
+               "Consumption": "9.6l | 12,7l" 
             },
                         {
                "model": "Audi A5",
-               "img": "https://img.drivemag.net/jato_car_photos/MERCEDES%2FSLK-CLASS%2Fconvertible%2F2%2F2007%2Fexterior-photos%2Fo%2Fmercedes-slk-class-convertible-2-doors-2007-model-exterior-photos-0.jpg", 
-               "power": "170Kw | 225 Kw",
+               "img": "https://img.carismo.cz/0/0f/0fe/0fe8d210d379b6dc90b3e40da94a62b3.jpg", 
+               "power": "160Kw | 215 Kw",
                "engine": "Petrol | Gasoline",
                "year": "2021",
-               "speed": "210km/h | 260km/h",
+               "speed": "213km/h | 261km/h",
                "Consumption": "9.5l | 12,5l"
             },
                         {
-               "model": "Audi 8",
-               "img": "https://assets.newatlas.com/dims4/default/cce3bee/2147483647/strip/true/crop/675x450+63+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Farchive%2Fmbglk.jpg", 
+               "model": "Audi A8",
+               "img": "https://mlxpskx39w6k.i.optimole.com/-MT2Ki0--EqP0d-4/w:900/h:596/q:75/https://www.autodaily.com.au/wp-content/uploads/2020/04/1-audi-a8-tfsie-2020-uk-fd-hero-front.jpg", 
                "power": "170Kw | 225 Kw",
                "engine": "Petrol | Gasoline",
                "year": "2021",
-               "speed": "210km/h | 260km/h",
-               "Consumption": "9.5l | 12,5l"
+               "speed": "211km/h | 2480km/h",
+               "Consumption": "9.2l | 12,1l"
             
             }
         ]
